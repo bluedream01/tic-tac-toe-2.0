@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Tic-tac-toe",
+  base: "/Tic-tac-toe-2.0",
 })
